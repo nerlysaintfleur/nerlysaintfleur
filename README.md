@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nerlysaintfleur
 - 👀 I’m interested in 3D, Cars and Coding
 - 🌱 I’m currently learning React
+- 🏿‍👻 Education: Bachelor of IT & Diploma in Interactive Multimedia Design (Carleton University)
 - 💞️ I’m looking to collaborate on Front-End development and Mobile applications
 - 📫 How to reach me : nerlysaintfleur@gmail.com
 
