@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nerlysaintfleur
 - 🌱 I’m currently learning React
-- 👻 Education: Bachelor of IT & Diploma in Interactive Multimedia Design (Carleton University)
+- 👻 Education: Bachelor of IT & Diploma in Interactive Multimedia Design (Carleton University & Algonguin College)
 - 💞️ I’m looking to collaborate on Front-End development and Mobile applications
 - 📫 How to reach me : nerlysaintfleur@gmail.com
 
